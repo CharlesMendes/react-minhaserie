@@ -2,6 +2,9 @@
 Teste estudo de ReactJS
 https://www.devpleno.com/seriereactjs-aulas/
 
+
+![Screenshot](tela.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
